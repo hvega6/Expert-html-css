@@ -1,0 +1,6 @@
+input[type=text]{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 25%;
+    height: 1em;
+    border: 1px solid #111;
+}
