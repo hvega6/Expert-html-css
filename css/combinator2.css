@@ -1,0 +1,15 @@
+*{
+    list-style: none;
+}
+body{
+    color: gray;
+    background-color: peachpuff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div ~ ul {
+    background-color: white;
+    color: darkgreen;
+    box-shadow: inset 1px 3px 3px black;
+    padding: 10px;
+}
